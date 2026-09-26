@@ -1,8 +1,8 @@
-# BrightLearn Data Analytics – Research Assignment 1
+# BrightLearn Data Analytics – Research Assignment 
 
 ## Foundations of Data Analytics & Data Science
 
-This repository contains my **Research Assignment 1** for the BrightLearn Data Analytics course.
+This repository contains my **Research Assignment ** for the BrightLearn Data Analytics course.
 
 The assignment covers foundational concepts in:
 
@@ -13,11 +13,6 @@ The assignment covers foundational concepts in:
 * Data Analytics Careers
 * Personal Reflection
 
-The assignment has helped me develop a better understanding of how data, AI and technology are used in real-world applications.
-
-### Skills & Technologies
-
-`Data Analytics` `AI` `Machine Learning` `Python` `SQL` `Power BI` `APIs` `GitHub`
 
 **Author:** Tshovhote Zwivhuya
 
